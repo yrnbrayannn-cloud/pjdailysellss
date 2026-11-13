@@ -1,3 +1,5 @@
+ShiftRecorder calculates shift totals in the shared pure helper `src/lib/shift-recorder.ts` and protects its payment math with `src/test/shift-recorder.test.ts`; keep summaries consistent and their money rules testable.
+
 <!-- LOVABLE:BEGIN -->
 > [!IMPORTANT]
 > This project is connected to [Lovable](https://lovable.dev). Avoid rewriting
